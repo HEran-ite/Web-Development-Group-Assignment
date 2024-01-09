@@ -17,6 +17,12 @@ This repository contains a hotel booking application that allows customers to bo
   - Admins can edit existing room information, including descriptions and images.
   - Admins have the ability to delete room listings.
 
+## We choose PostgreSQL for our project over other relational databases because : 
+  -Structured Data with Relationships:  our hotel-booking system involves interconnections among data entities like rooms, bookings, customers, etc. PostgreSQL's relational model excels in managing structured data with well-defined relationships.
+  -Reliability: It provides reliability in data storage and retrieval, ensuring that our project maintains data integrity even as it evolves. This reliability is crucial, especially when handling booking details and customer information.
+
+## Section 2
+
 ## Group Members
 - Member 1: Heran Eshetu    (UGR/5016/14)
 - Member 2: Soliyana Kewani (UGR/6041/14)
