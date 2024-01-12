@@ -1,0 +1,1 @@
+{"version":3,"file":"hotel-room.module.js","sourceRoot":"","sources":["../../src/hotel-room/hotel-room.module.ts"],"names":[],"mappings":";;;;;;;;;AACA,2CAAwC;AACxC,2DAAoD;AACpD,mEAA8D;AAMvD,IAAM,eAAe,GAArB,MAAM,eAAe;CAAG,CAAA;AAAlB,0CAAe;0BAAf,eAAe;IAJ3B,IAAA,eAAM,EAAC;QACJ,WAAW,EAAC,CAAC,2CAAmB,CAAC;QACjC,SAAS,EAAC,CAAC,oCAAgB,CAAC;KAC/B,CAAC;GACW,eAAe,CAAG"}
